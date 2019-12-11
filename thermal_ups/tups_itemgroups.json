@@ -9,6 +9,14 @@
 	]
   },
   {
+  "type": "item_group",
+    "id": "allclothes",
+    "items": [
+		[ "thermal_outfit_ups", 1 ],
+		[ "thermal_suit_ups", 2 ]
+	]
+  },
+  {
     "id": "underwear_unisex",
     "type": "item_group",
     "//": "unisex underwear",
